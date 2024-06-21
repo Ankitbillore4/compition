@@ -139,8 +139,6 @@ gsap.from(".contentlatest", {
         run()
     }
 })
-
-
 function run() {
 
     let grow = 0
