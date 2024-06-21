@@ -9,6 +9,7 @@ height:100%;
 width:100%;
 }
 
+
 .right img{
   height: 100%;
   width:  100%;
@@ -25,42 +26,50 @@ width:100%;
 .navpart2 h3:hover{
   color: #5CD2B9;
 }
+
 .rightpart1 .A:hover  {
   color: #5CD2B9;
  background: linear-gradient( to bottom,black,#1C3531);
 }
+
 .rightpart1 .B{
   background: linear-gradient( to bottom,black,#1C3531);
  }
+
  .rightpart2 .A{
   background: linear-gradient( to bottom,black,#1C3531);
  }
+
  .rightpart2 .B:hover  {
   color: #5CD2B9;
   background: linear-gradient( to bottom,black,#1C3531);
  }
+
 
  .rightpart1 .B:hover{
   color: #5CD2B9;
   background: none;
  }
 
+
  .rightpart2 .A:hover{
   color: #5CD2B9;
   background: none;
  }
 
+
  .rightpart1 .A{
   background-color: #0C0C0C;
  }
+
  .rightpart2 .B{
   background-color:#0C0C0C ;
  }
 
-
  .projects{
   background: linear-gradient(to left, black,#1E3A34);
  }
+ 
  .lastnav{
   background: linear-gradient(to right, rgba(21, 21, 21, 0.717),#1E3A34);
  }

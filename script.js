@@ -1,5 +1,4 @@
 
-
 var tl = gsap.timeline()
 
 tl.from(".navpart1 h1", {
@@ -118,7 +117,6 @@ gsap.from(".contentabout", {
     scrollTrigger: {
         trigger: ".contentabout",
         scroller: "body",
-        
         start: "top 85%",
     }
 })
