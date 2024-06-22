@@ -77,7 +77,7 @@ gsap.from(".brandidentity", {
     scrollTrigger: {
         trigger: ".brandidentity",
         scroller: "body",
-        start: "top 85%",
+        start: "top 85%",   
     }
 
 })
