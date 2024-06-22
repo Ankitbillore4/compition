@@ -13,7 +13,7 @@ width:100%;
 .right img{
   height: 100%;
   width:  100%;
-  
+ 
 }
 
 .content1{
@@ -27,32 +27,32 @@ width:100%;
   color: #5CD2B9;
 }
 
-.rightpart1 .A:hover  {
+.rightpart1 .A:hover{
   color: #5CD2B9;
- background: linear-gradient( to bottom,black,#1C3531);
+ background: linear-gradient(to bottom,black,#1C3531);
 }
 
 .rightpart1 .B{
-  background: linear-gradient( to bottom,black,#1C3531);
+  background: linear-gradient(to bottom,black,#1C3531);
  }
 
  .rightpart2 .A{
-  background: linear-gradient( to bottom,black,#1C3531);
+  background: linear-gradient(to bottom,black,#1C3531);
  }
 
- .rightpart2 .B:hover  {
+ .rightpart2 .B:hover {
   color: #5CD2B9;
   background: linear-gradient( to bottom,black,#1C3531);
  }
 
 
- .rightpart1 .B:hover{
+ .rightpart1 .B:hover {
   color: #5CD2B9;
   background: none;
  }
 
 
- .rightpart2 .A:hover{
+ .rightpart2 .A:hover {
   color: #5CD2B9;
   background: none;
  }
