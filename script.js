@@ -12,7 +12,7 @@ tl.from(".navpart2 h3", {
     y: -100,
     duration: 0.88,
     opacity: 0,
-    scale: -1,
+    scale:-1,
     stagger: 0.2,
 })
 
